@@ -10,6 +10,8 @@ I work on mobile puzzle games, with a focus on readable gameplay, reliable progr
 | --- | --- |
 | [WaterSort — Unity case study](https://github.com/mobeenafzal570/water-sort-unity-case-study) | C# code excerpts and engineering notes on bottle layout, special levels, undo, tutorials, and a 100-level journey map. |
 | [Water-sort level validator](https://github.com/mobeenafzal570/water-sort-level-validator) | A runnable Python tool for checking level inventories, searching for solutions, and replaying moves against the puzzle rules. |
+| [C# command history](https://github.com/mobeenafzal570/csharp-command-history) | A portable undo/redo library with bounded history, grouped commands, and failure-recovery tests. |
+| [C# object pool](https://github.com/mobeenafzal570/csharp-object-pool) | Explicit leases, bounded object retention, reset/cleanup policies, and lifecycle regression tests. |
 
 ## Engineering interests
 
