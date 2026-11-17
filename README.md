@@ -12,7 +12,7 @@ I work on mobile puzzle games, with a focus on readable gameplay, reliable progr
 | [Water-sort level validator](https://github.com/mobeenafzal570/water-sort-level-validator) | A runnable Python tool for checking level inventories, searching for solutions, and replaying moves against the puzzle rules. |
 | [C# command history](https://github.com/mobeenafzal570/csharp-command-history) | A portable undo/redo library with bounded history, grouped commands, and failure-recovery tests. |
 | [C# object pool](https://github.com/mobeenafzal570/csharp-object-pool) | Explicit leases, bounded object retention, reset/cleanup policies, and lifecycle regression tests. |
-| [Lossless image compressor](https://github.com/mobeenafzal570/lossless-image-compressor) | Offline PNG optimization, optional lossless JPEG optimization, quality-preservation checks, and Windows/macOS guides. |
+| [Lossless image compressor](https://github.com/mobeenafzal570/lossless-image-compressor) | Drag-and-drop Windows/macOS desktop app with offline lossless PNG/JPEG compression, quality checks, and beginner-friendly guides. |
 
 ## Engineering interests
 
